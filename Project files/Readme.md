@@ -1,5 +1,5 @@
 # Demo Video Link
-https://drive.google.com/file/d/1K2eFDD8TEXpbihc9RHpISLcmYAhwQV_q/view?usp=sharing
+https://drive.google.com/drive/folders/1rajwId_s4vO2cZOBrW5i1bhlcp0QJjl4
 
 # Dataset link
 https://www.kaggle.com/datasets/thedevastator/analyzing-customer-spending-habits-to-improve-sa
